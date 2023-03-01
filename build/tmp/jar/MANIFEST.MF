@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Main-Class: com.distribuida.Servidor
+Class-Path: libs/spring-boot-starter-data-mongodb-3.0.3.jar libs/spring-
+ boot-starter-data-mongodb-reactive-3.0.3.jar libs/spring-boot-starter-j
+ ersey-3.0.3.jar libs/spring-boot-starter-web-3.0.3.jar libs/spring-data
+ -mongodb-4.0.2.jar libs/httpclient-4.3.1.wso2v1.jar libs/spring-boot-st
+ arter-json-3.0.3.jar libs/spring-boot-starter-validation-3.0.3.jar libs
+ /spring-boot-starter-3.0.3.jar libs/mongodb-driver-sync-4.8.2.jar libs/
+ mongodb-driver-reactivestreams-4.8.2.jar libs/reactor-core-3.5.3.jar li
+ bs/spring-boot-starter-tomcat-3.0.3.jar libs/spring-webmvc-6.0.5.jar li
+ bs/spring-web-6.0.5.jar libs/jersey-container-servlet-3.1.1.jar libs/je
+ rsey-spring6-3.1.1.jar libs/jersey-container-servlet-core-3.1.1.jar lib
+ s/jersey-bean-validation-3.1.1.jar libs/jersey-server-3.1.1.jar libs/je
+ rsey-media-json-jackson-3.1.1.jar libs/spring-tx-6.0.5.jar libs/spring-
+ boot-autoconfigure-3.0.3.jar libs/spring-boot-3.0.3.jar libs/spring-con
+ text-6.0.5.jar libs/spring-data-commons-3.0.2.jar libs/spring-aop-6.0.5
+ .jar libs/spring-beans-6.0.5.jar libs/spring-expression-6.0.5.jar libs/
+ spring-core-6.0.5.jar libs/mongodb-driver-core-4.8.2.jar libs/spring-bo
+ ot-starter-logging-3.0.3.jar libs/logback-classic-1.4.5.jar libs/log4j-
+ to-slf4j-2.19.0.jar libs/jul-to-slf4j-2.0.6.jar libs/slf4j-api-2.0.6.ja
+ r libs/jersey-client-3.1.1.jar libs/jersey-hk2-3.1.1.jar libs/jersey-co
+ mmon-3.1.1.jar libs/hk2-3.0.3.jar libs/hk2-core-3.0.3.jar libs/hk2-runl
+ evel-3.0.3.jar libs/hk2-locator-3.0.3.jar libs/hk2-api-3.0.3.jar libs/h
+ k2-utils-3.0.3.jar libs/jakarta.annotation-api-2.1.1.jar libs/snakeyaml
+ -1.33.jar libs/bson-record-codec-4.8.2.jar libs/bson-4.8.2.jar libs/rea
+ ctive-streams-1.0.4.jar libs/jackson-datatype-jsr310-2.14.2.jar libs/ja
+ ckson-module-parameter-names-2.14.2.jar libs/jackson-module-jakarta-xml
+ bind-annotations-2.14.2.jar libs/jackson-annotations-2.14.2.jar libs/ja
+ ckson-core-2.14.2.jar libs/jackson-datatype-jdk8-2.14.2.jar libs/jackso
+ n-databind-2.14.2.jar libs/tomcat-embed-websocket-10.1.5.jar libs/tomca
+ t-embed-core-10.1.5.jar libs/tomcat-embed-el-10.1.5.jar libs/hibernate-
+ validator-8.0.0.Final.jar libs/micrometer-observation-1.10.4.jar libs/s
+ pring-bridge-3.0.3.jar libs/jakarta.inject-api-2.0.1.jar libs/jersey-en
+ tity-filtering-3.1.1.jar libs/jakarta.ws.rs-api-3.1.0.jar libs/jakarta.
+ validation-api-3.0.2.jar libs/jboss-logging-3.5.0.Final.jar libs/jakart
+ a.xml.bind-api-4.0.0.jar libs/spring-jcl-6.0.5.jar libs/classmate-1.5.1
+ .jar libs/micrometer-commons-1.10.4.jar libs/osgi-resource-locator-1.0.
+ 3.jar libs/javassist-3.29.0-GA.jar libs/class-model-3.0.3.jar libs/jaka
+ rta.activation-api-2.1.1.jar libs/logback-core-1.4.5.jar libs/log4j-api
+ -2.19.0.jar libs/aopalliance-repackaged-3.0.3.jar libs/asm-commons-9.2.
+ jar libs/asm-util-9.2.jar libs/asm-analysis-9.2.jar libs/asm-tree-9.2.j
+ ar
+
